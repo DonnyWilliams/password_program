@@ -1,2 +1,2 @@
 # password_program
-Simple code to create a user ID and password, and then only allow access with the correct information
+This is some simple code I wrote to create a user ID and password, and then only allow access with the correct information. I had learned the basics of how to do some of this from Zero To Mastery Academy's Complete Python for 2021 course and Learn Python 3 the Hard Way, but this code here was not from either course. This was me writing code from the top of my head, making sure I understood the concepts. I also took care to make sure the content the user sees is properly written, punctuated, and laid out in a way that is easy to understand and use.
